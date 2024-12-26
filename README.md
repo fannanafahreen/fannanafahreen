@@ -23,6 +23,6 @@ Hi there! I’m Fannana Fahreen Aanan, a Computer Science graduate with a specia
 Feel free to explore my projects! They showcase my skills and passion for ML, AI, and data-driven solutions. Don't hesitate to reach out if you want to collaborate or discuss new opportunities.  
 
 📫 **Connect with Me**  
-- **LinkedIn**: [Insert LinkedIn URL]  
-- **Email**: [Insert Email]  
-- **GitHub**: [Insert GitHub URL]  
+- **LinkedIn**: https://www.linkedin.com/feed/
+- **Email**: fannanafahreen@gmail.com
+- **GitHub**:
