@@ -25,4 +25,4 @@ Feel free to explore my projects! They showcase my skills and passion for ML, AI
 📫 **Connect with Me**  
 - **LinkedIn**: https://www.linkedin.com/feed/
 - **Email**: fannanafahreen@gmail.com
-- **GitHub**:
+- **GitHub**:https://github.com/fannanafahreen
