@@ -1,28 +1,47 @@
-# Fannana Fahreen Aanan’s Repository
+# 👋 Hi, I'm Fannana Fahreen Aanan!
 
-👩‍💻 **About Me**  
-Hi there! I’m Fannana Fahreen Aanan, a Computer Science graduate with a specialization in Machine Learning (ML), Artificial Intelligence (AI), Data Analytics, and Data Science. I’m passionate about solving real-world problems using data and cutting-edge technologies. I enjoy building intelligent systems that learn and improve from data.
-
-🌟 **Skills & Expertise**  
-- **Programming Languages**: C, Java, Python  
-- **Machine Learning & AI**: Model development, deep learning, NLP, computer vision  
-- **Data Analytics & Science**: Data wrangling, exploratory data analysis, statistical modeling, data visualization  
-- **Tools & Technologies**: TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, SQL  
-
-🎶 **Extracurriculars & Interests**  
-- **Dance**: I love expressing myself through movement and rhythm. Dancing has taught me discipline and creativity, and I’m always looking for ways to incorporate those qualities into my work.  
-- **Music**: Music fuels my passion for creativity, helping me think outside the box and approach problems in new ways.
-
-💼 **What I Do**  
-- Developing machine learning models to solve complex problems.  
-- Performing data analysis to derive insights and make data-driven decisions.  
-- Exploring new technologies and constantly learning in the field of AI and Data Science.
+Welcome to my GitHub! I'm a **Computer Science graduate** with a passion for **Machine Learning (ML), Artificial Intelligence (AI), Data Science, and Data Analytics**. I love transforming raw data into meaningful insights and building intelligent systems that can learn and improve over time.
 
 ---
 
-Feel free to explore my projects! They showcase my skills and passion for ML, AI, and data-driven solutions. Don't hesitate to reach out if you want to collaborate or discuss new opportunities.  
+## 🌟 Skills & Expertise
 
-📫 **Connect with Me**  
-- **LinkedIn**: https://www.linkedin.com/feed/
-- **Email**: fannanafahreen@gmail.com
-- **GitHub**:https://github.com/fannanafahreen
+### 🔹 **Programming Languages**  
+- C, Java, Python  
+
+### 🔹 **Machine Learning & AI**  
+- Model development, Computer Vision  
+
+### 🔹 **Data Science & Analytics**  
+- Exploratory Data Analysis, Statistical Modeling, Data Visualization  
+
+### 🔹 **Tools & Technologies**  
+- **Scikit-learn**, **Scipy**, Pandas, NumPy, Matplotlib, SQL, Excel, Power BI, Power Query, Power Pivot  
+
+---
+
+## 🌝 What I Do
+✅ Build and optimize **Machine Learning models** to solve real-world problems  
+✅ Perform **Data Analysis** to derive meaningful insights and drive data-driven decisions  
+✅ Work with large datasets, applying **statistical and predictive modeling techniques**  
+✅ Continuously **explore new technologies** to stay updated in AI & Data Science  
+
+---
+
+## 🎶 Extracurriculars & Interests
+🎭 **Dance** → Expressing creativity through movement and rhythm  
+🎵 **Music** → Fueling innovation and inspiration through melodies  
+
+---
+
+## 📊 GitHub Stats
+![Fannana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fannanafahreen&show_icons=true&theme=radical)
+
+---
+
+## 👯️ Connect with Me
+📍 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/feed/)  
+📝 **Email:** fannanafahreen@gmail.com  
+📚 **GitHub:** [fannanafahreen](https://github.com/fannanafahreen)  
+
+Let's collaborate and build something impactful together! 🚀
