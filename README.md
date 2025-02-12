@@ -34,10 +34,6 @@ Welcome to my GitHub! I'm a **Computer Science graduate** with a passion for **M
 
 ---
 
-## 📊 GitHub Stats
-![Fannana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fannanafahreen&show_icons=true&theme=radical)
-
----
 
 ## 👯️ Connect with Me
 📍 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/feed/)  
