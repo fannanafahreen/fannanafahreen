@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fannana Fahreen Aanan!
 
-Welcome to my GitHub! I'm a **Computer Science graduate** and Currently doing Master at **Data science(Fintech)** in University of Greenwich. I love transforming raw data into meaningful insights and building intelligent systems that can learn and improve over time.
+Welcome to my GitHub! I'm a **Computer Science graduate** and Currently doing Master's at **Data science(Fintech)** in University of Greenwich. I love transforming raw data into meaningful insights and building intelligent systems that can learn and improve over time.
 
 ---
 
