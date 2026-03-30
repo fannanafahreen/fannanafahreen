@@ -39,6 +39,6 @@ Welcome to my GitHub! I'm a **Computer Science graduate** and Currently doing Ma
 📍 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/feed/)  
 📝 **Email:** fannanafahreen@gmail.com  
 📚 **GitHub:** [fannanafahreen](https://github.com/fannanafahreen) 
-📚 **Portfolio**[Fannana Fahreen Aanan](https://my-portfolio-m8mc.onrender.com/)
+🎭 **Portfolio**[Fannana Fahreen Aanan](https://my-portfolio-m8mc.onrender.com/)
 
 Let's collaborate and build something impactful together! 🚀
