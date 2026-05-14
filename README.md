@@ -28,12 +28,6 @@ Welcome to my GitHub! I'm a **Computer Science graduate** and Currently doing Ma
 
 ---
 
-## 🎶 Extracurriculars & Interests
-🎭 **Dance** → Expressing creativity through movement and rhythm  
-🎵 **Music** → Fueling innovation and inspiration through melodies  
-
----
-
 
 ## 👯️ Connect with Me
 📍 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/feed/)  
