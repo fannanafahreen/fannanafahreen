@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a **Computer Science graduate** and Currently doing Ma
 - C, Java, Python  
 
 ### 🔹 **Machine Learning & AI**  
-- Model development, Computer Vision  
+- Model development 
 
 ### 🔹 **Data Science & Analytics**  
 - Exploratory Data Analysis, Statistical Modeling, Data Visualization  
