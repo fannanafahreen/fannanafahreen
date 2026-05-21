@@ -94,7 +94,7 @@ I'm actively looking for **paid data analyst, data scientist, or ML engineering 
 ## 🌱 What I'm Working On
 
 - 📊 Expanding an Anti-Human Trafficking Intelligence Platform with richer graph analytics and a public-facing dashboard layer
-- 🌐 Building and maintaining the Rahab's Daughters website (ANLYTIQ / GoHighLevel)
+- 🌐 Building and maintaining the Rahab's Daughters website (GoHighLevel)
 - 📚 Completing my MSc dissertation at Greenwich
 - 🔎 Open to grad roles and internships in London — data, ML, or research
 
