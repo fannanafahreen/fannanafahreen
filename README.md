@@ -20,8 +20,6 @@ I'm a Data Science postgraduate with a background in Computer Science, specialis
 
 Currently, I'm completing my MSc at the **University of Greenwich** while serving as a **Tech Intern at [Rahab's Daughters](https://rahabsdaughters.org)**, a UK-based anti-human trafficking charity, where I work on web development, data dashboards, and responsible AI research.
 
-I'm actively looking for **paid data analyst, data scientist, or ML engineering roles in London** (graduate or internship level).
-
 ---
 
 ## 🛠️ Tech Stack
