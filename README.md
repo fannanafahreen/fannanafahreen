@@ -7,8 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fannanafahreen">LinkedIn</a> ·
-  <a href="https://github.com/fannanafahreen">GitHub</a> ·
-  <a href="https://my-portfolio-m8mc.onrender.com/">Portfolio</a> ·
+  <a href="https://github.com/fannanafahreen">GitHub</a> 
   <a href="mailto:fannanafahreen@gmail.com">Email</a>
 </p>
 
