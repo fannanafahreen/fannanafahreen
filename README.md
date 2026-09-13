@@ -66,14 +66,6 @@ Currently completing my MSc at the **University of Greenwich**, and working as a
 
 ---
 
-### 🌍 UNODC Human Trafficking Dashboard
-> *Global trafficking trends, from raw Excel to published visuals*
-
-- Full pipeline from raw data cleaning to a published Power BI dashboard
-- Covers victim demographics, recruitment methods, regional patterns, and exploitation types
-
----
-
 ## 🎓 Academic Highlights
 
 - **MSc Dissertation:** FCA Adverse Outcome Prediction — XGBoost vs. L2-regularised logistic regression on ~22,000 firms with ~30:1 class imbalance; expanding-window backtesting, probability calibration (Platt scaling / isotonic regression), and SHAP for interpretability
