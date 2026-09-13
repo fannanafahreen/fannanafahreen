@@ -83,4 +83,4 @@ Currently completing my MSc at the **University of Greenwich**, and working as a
 
 ## 📬 Let's Connect
 
-**📍 London, UK** · [LinkedIn](https://www.linkedin.com/in/fannanafahreen) · [Portfolio](https://my-portfolio-m8mc.onrender.com/) · [fannanafahreen@gmail.com](mailto:fannanafahreen@gmail.com)
+**📍 London, UK** · [LinkedIn](https://www.linkedin.com/in/fannanafahreen) · [fannanafahreen@gmail.com](mailto:fannanafahreen@gmail.com)
