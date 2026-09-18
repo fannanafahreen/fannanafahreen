@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a Data Science postgraduate specialising in FinTech, with a background in Computer Science. I like taking a dataset from raw and messy to a clean, defensible business finding — and I care about getting the judgment calls right along the way (how to handle missing data, how to define a metric, how to avoid overclaiming a correlation).
+I'm a Data Science postgraduate specialising in FinTech, with a background in Computer Science. I like taking a dataset from raw and messy to a clean, defensible business finding and I care about getting the judgment calls right along the way (how to handle missing data, how to define a metric, how to avoid overclaiming a correlation).
 
 Currently completing my MSc at the **University of Greenwich**, and working as a **Research Assistant** on FCA regulatory machine learning research, building models to predict adverse regulatory outcomes for UK financial firms.
 
@@ -30,7 +30,7 @@ Currently completing my MSc at the **University of Greenwich**, and working as a
 `Power BI` `DAX` `Power Query (M)` `Matplotlib` `Plotly` `Excel`
 
 **Also familiar with**
-`Scikit-learn` `XGBoost` `PostgreSQL` `Git`
+`Scikit-learn` `Logistic Regression` `XGBoost` `Random Forest` `PostgreSQL` `Git` 
 
 ---
 
@@ -39,10 +39,10 @@ Currently completing my MSc at the **University of Greenwich**, and working as a
 ### 🕵️ AuditPoint — HR People Analytics Data Quality Dashboard
 > *Can you trust workforce data pulled from multiple regional HR systems before you report on it?*
 
-- Simulated a multi-region HR environment (~1,000 employees across 4 regions) with deliberately injected data quality issues — duplicate feed records, category drift, orphan foreign keys, inconsistent date formats
-- Built the full audit layer in Excel/Power Query: found 32 duplicate employee records (14 with genuine conflicts, not just formatting), 16 logically impossible dates, 9 recruitment records referencing non-existent departments, and 24 conflicting diversity records
-- Every genuine conflict flagged for manual review rather than auto-resolved — no silent data correction
-- 6-page Power BI dashboard, with a dedicated Data Quality & Governance page presented *before* any workforce metric
+- Simulated a multi-region HR environment (~1,000 employees across 4 regions) with deliberately injected data quality issues, duplicate feed records, category drift, orphan foreign keys, inconsistent date formats.
+- Built the full audit layer in Excel/Power Query: found 32 duplicate employee records (14 with genuine conflicts, not just formatting), 16 logically impossible dates, 9 recruitment records referencing non-existent departments, and 24 conflicting diversity records.
+- Every genuine conflict flagged for manual review rather than auto-resolved, no silent data correction.
+- 6-page Power BI dashboard, with a dedicated Data Quality & Governance page presented *before* any workforce metric.
 - **[Repo →](https://github.com/fannanafahreen/auditpoint-hr-data-quality)**
 
 ---
@@ -50,7 +50,7 @@ Currently completing my MSc at the **University of Greenwich**, and working as a
 ### 📊 FCA Adverse Outcome Prediction (MSc Dissertation)
 > *Can machine learning flag UK financial firms at risk of an adverse regulatory outcome before it happens?*
 
-- Built a firm-year panel of ~22,000 UK firms from the FCA Register and Companies House data, handling a ~30:1 class imbalance
+- Built a firm-year panel of ~22,000 UK firms from the FCA Register and Companies House data, handling a ~1:270 class imbalance.
 - Compared XGBoost against L2-regularised logistic regression, using expanding-window backtesting to simulate real-world deployment rather than a single train/test split
 - Applied probability calibration (Platt scaling / isotonic regression) and SHAP for interpretability — a regulatory SupTech tool has to be explainable, not just accurate
 - Currently pending publication — repo available on request
