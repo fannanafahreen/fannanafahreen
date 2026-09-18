@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fannanafahreen">LinkedIn</a> ·
-  <a href="https://github.com/fannanafahreen">GitHub</a> 
+  <a href="https://github.com/fannanafahreen">GitHub</a> ·
   <a href="mailto:fannanafahreen@gmail.com">Email</a>
 </p>
 
@@ -27,7 +27,7 @@ Currently completing my MSc at the **University of Greenwich**, and working as a
 `Python` `Pandas` `NumPy` `SQL`
 
 **Visualisation & BI**
-`Power BI` `DAX` `Power Query` `Matplotlib` `Plotly` `Excel`
+`Power BI` `DAX` `Power Query (M)` `Matplotlib` `Plotly` `Excel`
 
 **Also familiar with**
 `Scikit-learn` `XGBoost` `PostgreSQL` `Git`
@@ -35,6 +35,27 @@ Currently completing my MSc at the **University of Greenwich**, and working as a
 ---
 
 ## 🔍 Featured Projects
+
+### 🕵️ AuditPoint — HR People Analytics Data Quality Dashboard
+> *Can you trust workforce data pulled from multiple regional HR systems before you report on it?*
+
+- Simulated a multi-region HR environment (~1,000 employees across 4 regions) with deliberately injected data quality issues — duplicate feed records, category drift, orphan foreign keys, inconsistent date formats
+- Built the full audit layer in Excel/Power Query: found 32 duplicate employee records (14 with genuine conflicts, not just formatting), 16 logically impossible dates, 9 recruitment records referencing non-existent departments, and 24 conflicting diversity records
+- Every genuine conflict flagged for manual review rather than auto-resolved — no silent data correction
+- 6-page Power BI dashboard, with a dedicated Data Quality & Governance page presented *before* any workforce metric
+- **[Repo →](https://github.com/fannanafahreen/auditpoint-hr-data-quality)**
+
+---
+
+### 📊 FCA Adverse Outcome Prediction (MSc Dissertation)
+> *Can machine learning flag UK financial firms at risk of an adverse regulatory outcome before it happens?*
+
+- Built a firm-year panel of ~22,000 UK firms from the FCA Register and Companies House data, handling a ~30:1 class imbalance
+- Compared XGBoost against L2-regularised logistic regression, using expanding-window backtesting to simulate real-world deployment rather than a single train/test split
+- Applied probability calibration (Platt scaling / isotonic regression) and SHAP for interpretability — a regulatory SupTech tool has to be explainable, not just accurate
+- Currently pending publication — repo available on request
+
+---
 
 ### 📦 Marketplace Seller Risk Scoring & Exposure Correlation Study
 > *Does poor delivery performance trigger a downward spiral in seller visibility on a marketplace platform?*
@@ -68,7 +89,7 @@ Currently completing my MSc at the **University of Greenwich**, and working as a
 
 ## 🎓 Academic Highlights
 
-- **MSc Dissertation:** FCA Adverse Outcome Prediction — XGBoost vs. L2-regularised logistic regression on ~22,000 firms with ~30:1 class imbalance; expanding-window backtesting, probability calibration (Platt scaling / isotonic regression), and SHAP for interpretability
+- **MSc Dissertation** — FCA Adverse Outcome Prediction (full write-up under Featured Projects above)
 - **Data Visualisation (COMP1800):** Built 8 interactive visualisations, including Bokeh charts with custom dropdown filtering
 
 ---
